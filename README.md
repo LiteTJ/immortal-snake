@@ -1,7 +1,7 @@
 # Read Me
 Immortal Snake in JavaScript Canvas
 
-##Instructions
+## Instructions
 Arrow keys to control the snake and eat food to grow longer. Don't worry about hitting yourself, you are immortal and cannot die! (This was a test project to familiarise myself with JavaScript after taking a break. I got bored and didn't add the player death functionality lol)
 
 ## Installation
